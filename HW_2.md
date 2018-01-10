@@ -1,5 +1,5 @@
 # The Mark
-Let's learn how to document code with github using the markdown language. 
+Let's learn how to document code with github using the markdown la 
 
 For adding a line break here we need to add a double space at the end of the previous line.
 Here I didn't add doubes space.  

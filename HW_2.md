@@ -1,5 +1,5 @@
 # SANDY'S CHOCOLATE CAKE RECIPE
-**Found in  [this link] (https://www.tasteofhome.com/recipes/sandy-s-chocolate-cake)**
+**Found in [this link](https://www.tasteofhome.com/recipes/sandy-s-chocolate-cake)**
 
 ## Ingredients 
 ### For the cake
@@ -36,5 +36,5 @@ Cool slightly.
 - In a large bowl, combine confectioners' sugar, sour cream and vanilla.  
 Add chocolate mixture; beat until smooth. Spread frosting between layers and over top and sides of cake. Refrigerate leftovers.
 
-##Cake image:
+## Cake image:
 ![Image of github's cake](https://cdn2.tmbi.com/TOH/Images/Photos/37/300x300/exps957_TH143195C09_04_4b.jpg)
